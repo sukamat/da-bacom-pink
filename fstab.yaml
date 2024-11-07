@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sukamat/da-bacom-pink/
+    type: markup
